@@ -17,6 +17,8 @@ public class Game {
     private double price;
     private boolean available;
     private Set<Rating> ratings;
+    private String Developer;
+    private String ReleaseDate;
 
     @Override
     public boolean equals(Object o) {

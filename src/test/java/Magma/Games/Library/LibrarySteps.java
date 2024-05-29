@@ -56,7 +56,7 @@ public class LibrarySteps {
 
     @When("потребителят навигира до секцията с библиотеката с игри")
     public void navigateToLibrarySection() {
-        // No action needed for this step
+
     }
 
     @Then("системата трябва да покаже списък с игри в библиотеката")
